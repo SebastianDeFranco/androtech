@@ -1,5 +1,5 @@
 import React from "react";
-import { FaNetworkWired, FaChalkboardTeacher, FaRobot, FaHandshake, FaChartLine, FaMoneyCheckAlt, FaUserTie, FaShieldAlt } from "react-icons/fa";
+import { FaNetworkWired, FaChalkboardTeacher, FaRobot, FaHandshake, FaChartLine, FaMoneyCheckAlt, FaUserTie, FaShieldAlt, FaCode  } from "react-icons/fa";
 
 const servicios = [
   {
@@ -16,9 +16,9 @@ const servicios = [
         icono: FaChalkboardTeacher,
       },
       {
-        titulo: "Evolución Tecnológica",
-        descripcion: "Análisis y preparación para la adopción de nuevas tendencias tecnológicas.",
-        icono: FaRobot,
+        titulo: "Desarrollo de Software y Soluciones Digitales",
+        descripcion: "Creación de plataformas web y aplicaciones móviles adaptadas a tus necesidades.",
+        icono: FaCode,
       },
       {
         titulo: "Representación ante Proveedores",
